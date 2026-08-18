@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LlwO6qoq4+g=",
+  "success": true,
+  "projectFilePath": "C:\\Vatiki\\Smartgymtracker\\smart-gym-tracker\\backend\\SmartGymTracker.Api\\SmartGymTracker.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vajki\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\vajki\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
