@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "KaEJ1K5cYfbootwAwkKsyePQ42j1AcIDr/MkAvN5/Ps=",
+  "Source": "SmartGymTracker.Api",
+  "BasePath": "_content/SmartGymTracker.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
